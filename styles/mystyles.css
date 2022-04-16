@@ -1,0 +1,18 @@
+.video {
+    text-align: center;
+  }
+
+  .top {
+    text-decoration: none;
+    padding: 10px;
+    font-family: sans-serif;
+    color: #fff;
+    background: #E4AC65;
+    border-radius: 100px;
+  }
+
+  .title{
+    font-family: sans-serif;
+    color: #E6A756;
+    align-items: center;
+  }
